@@ -1,0 +1,16 @@
+{
+  "name": "mrushclient",
+  "version": "1.0.0",
+  "description": "Simple Client For Mrush.pl",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder"
+  },
+  "author": "AvileForsure",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^20.1.1",
+    "electron-builder": "^23.3.3"
+  }
+}
