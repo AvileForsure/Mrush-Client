@@ -58,4 +58,4 @@ Start the app
 
 ## Useful Links
 
- - [Report Issue](https://github.com/AvileForsure/Mrush-Client/issues)
+ - [Report An Issue](https://github.com/AvileForsure/Mrush-Client/issues)
